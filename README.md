@@ -48,3 +48,4 @@ Procure por colchetes no código:
 - **Cor de destaque:** troque `--accent` e `--accent-hover` no topo de `src/index.css`.
 - **Animações:** quem usa "reduzir movimento" no sistema vê a página sem animações (`MotionConfig reducedMotion="user"`).
 - **Fotos reais:** os blocos coloridos são marcadores. Troque o `background` dos itens em `Hero.jsx`, `Modes.jsx` e `Marquee.jsx` por imagens (`background-image` ou `<img>`).
+# Fotly
